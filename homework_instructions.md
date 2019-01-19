@@ -6,11 +6,11 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 
 ### Before You Begin
 
-1. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
+1. LIRI will search Spotify for songs, and OMDB for movies.
 
 2. Make a new GitHub repository called liri-node-app and clone it to your computer.
 
-3. To retrieve the data that will power this app, you'll need to send requests to the Bands in Town, Spotify and OMDB APIs. You'll find these Node packages crucial for your assignment.
+3. To retrieve the data that will power this app, you'll need to send requests to the , Spotify and OMDB APIs. You'll find these Node packages crucial for your assignment.
 
    * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)
 
@@ -111,7 +111,7 @@ require("dotenv").config();
 
 ### What Each Command Should Do
 
-1. `node liri.js concert-this <artist/band name here>`
+<!-- 1. `node liri.js concert-this <artist/band name here>`
 
    * This will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal:
 
@@ -119,7 +119,7 @@ require("dotenv").config();
 
      * Venue location
 
-     * Date of the Event (use moment to format this as "MM/DD/YYYY")
+     * Date of the Event (use moment to format this as "MM/DD/YYYY") -->
 
 2. `node liri.js spotify-this-song '<song name here>'`
 
