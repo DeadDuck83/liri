@@ -14,24 +14,24 @@ Liri will query based on the file random.txt.
 
 ## Here are the screenshots of the available commands:
 The first screen will return an promp if nothing is requested
-![Image of node liri.js](https://octodex.github.com/images/yaktocat.png)
+![Image of node liri.js](https://deadduck83.github.io/liri/screenshots/1.png)
 
 This screen auto generates the song Scared of the Dark... Im not really sure, that's not what I requested
-![Image of node liri.js spotify-this-song](https://octodex.github.com/images/yaktocat.png)
+![Image of node liri.js spotify-this-song](https://deadduck83.github.io/liri/screenshots/2.png)
 
 This screen shows the results for searching for One Headlight
-![Image of node liri.js spotify-this-song](https://octodex.github.com/images/yaktocat.png)
+![Image of node liri.js spotify-this-song](https://deadduck83.github.io/liri/screenshots/3.png)
 
 This screen shows the results for searching for a movie without any requirements
-![Image of node liri.js movie-this](https://octodex.github.com/images/yaktocat.png)
+![Image of node liri.js movie-this](https://deadduck83.github.io/liri/screenshots/4.png)
 
 This screen shows the results for searching for Gangs of New York
-![Image of node liri.js movie-this gangs of new york](https://octodex.github.com/images/yaktocat.png)
+![Image of node liri.js movie-this gangs of new york](https://deadduck83.github.io/liri/screenshots/5.png)
 
 This shows a result for searching the external document:
-![Image of node liri do-what-it-says](https://octodex.github.com/images/yaktocat.png)
+![Image of node liri do-what-it-says](https://deadduck83.github.io/liri/screenshots/6.png)
 Here is the file contents:
-![Image of random.txt](https://octodex.github.com/images/yaktocat.png)
+![Image of random.txt](https://deadduck83.github.io/liri/screenshots/7.png)
 Switched the random.txt to find a song:
-![Image of node liri do-what-it-says](https://octodex.github.com/images/yaktocat.png)
-![Image of I Wish](https://octodex.github.com/images/yaktocat.png)
+![Image of node liri do-what-it-says](https://deadduck83.github.io/liri/screenshots/8.png)
+![Image of I Wish](https://deadduck83.github.io/liri/screenshots/9.png)
