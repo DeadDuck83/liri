@@ -3,16 +3,16 @@
 
 This is node assistant app that takes in a query category and a query term and produces relevant information about the request.
 
-##Liri categories:
+## Liri categories:
 * spotify-this-song
 * movie-this
 
-##Variable:
+## Variable:
 This app can be configured to take in an existing file to parse and search from. There is an example of it in the app. If you run:
 * do-what-it-says
 Liri will query based on the file random.txt.
 
-##Here are the screenshots of the available commands:
+## Here are the screenshots of the available commands:
 The first screen will return an promp if nothing is requested
 ![Image of node liri.js](https://octodex.github.com/images/yaktocat.png)
 
